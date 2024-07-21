@@ -1,5 +1,5 @@
 # Overview
-This is a Vision Transformer implementation, used as a Proof of Concept with Cifar10 Dataset.\\
+Project is about a PyTorch Vision Transformer implementation, used as a Proof of Concept with Cifar10 Dataset.\\
 Vision transformer reference can be found at https://arxiv.org/abs/2010.11929v2.
 
 <img src="Block_diagram.png" width="500">
