@@ -25,5 +25,5 @@ These results are not competitive. In order to enhance accuracy
  - More data could be used for traiing
  - The model hyperparameters could be changed
 
- # Mode visualization
+ # Model visualization
 <img src="vision_transformer.png" width="600"> 
