@@ -23,6 +23,7 @@ Images have been patched in order to be flatteneed and concatenated with indices
 
 These results are not competitive. In order to enhance accuracy
  - More data could be used for traiing
+ - The number of epochs could be increased
  - The model hyperparameters could be changed
 
  # Model visualization
